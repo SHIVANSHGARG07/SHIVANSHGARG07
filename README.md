@@ -1,15 +1,116 @@
+<h1 align="center">Hey, I'm Shivansh Garg 👋</h1>
 
-<h1 align="center">Hi 👋, I'm Shivansh Garg</h1>
-<h3 align="center">A passionate software developer from India</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivanshgarg07" alt="shivanshgarg07" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shivansh-garg-6843a1257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivansh-garg-6843a1257" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shivanshgarg07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivanshgarg07" height="30" width="40" /></a>
+<p align="center">
+  <b>Software Engineer · Backend & Distributed Systems · Cloud Storage</b>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<p align="center">
+  Building systems that deal with <b>storage, APIs, distributed systems and infrastructure</b>.
+</p>
 
+<p align="center">
+  <a href="https://github.com/SHIVANSHGARG07">
+    <img src="https://img.shields.io/github/followers/SHIVANSHGARG07?label=Followers&style=flat" />
+  </a>
+  <a href="https://www.linkedin.com/in/shivansh-garg-6843a1257/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="https://leetcode.com/shivanshgarg07/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode" />
+  </a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+* 💼 Software Engineer at **DataDirect Networks (DDN)**
+* ☁️ Working with **S3-compatible object storage & cloud infrastructure**
+* 🦀 Exploring **Rust** for high-performance backend systems
+* 🐍 Building automation and storage tooling with **Python**
+* ⚡ Working with **Node.js, TypeScript & Angular**
+* 🐳 Interested in **Docker, Kubernetes & distributed systems**
+* 🔧 I enjoy building developer tools and solving infrastructure problems
+* 📚 Currently deepening my knowledge of **system design, Kubernetes & backend engineering**
+
+---
+
+### 🚀 What I'm Working On
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  ☁️  S3 / Object Storage                                    │
+│      S3 APIs · S3DS · Storage Management · Object Lock      │
+│                                                              │
+│  ⚙️  Backend Engineering                                     │
+│      Rust · Python · Node.js · REST APIs                     │
+│                                                              │
+│  🏗️  Infrastructure                                         │
+│      Docker · Kubernetes · Linux · Monitoring                │
+│                                                              │
+│  🔐  File Transfer & Storage                                 │
+│      SFTP · SFTPGo · S3 Integrations                         │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+### 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=rust,python,typescript,javascript,nodejs,react,angular,java,mongodb,mysql,docker,kubernetes,linux,git,github" />
+
+</p>
+
+---
+
+### 📌 Featured Projects
+
+**☁️ S3 Manager**
+
+A web-based management interface for S3-compatible storage.
+
+`Angular` `Node.js` `TypeScript` `AWS SDK` `REST APIs`
+
+**🦀 Rust Backend Projects**
+
+Exploring Rust through REST APIs, database systems, CLI applications and backend architecture.
+
+`Rust` `Tokio` `MongoDB` `REST` `CLI`
+
+**📦 Parcel Routing System**
+
+A production-style routing system designed around extensible business rules, reliability and observability.
+
+`Node.js` `TypeScript` `React` `Prometheus` `Grafana`
+
+---
+
+### 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SHIVANSHGARG07&show_icons=true&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHIVANSHGARG07&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIVANSHGARG07&layout=compact&hide_border=true&langs_count=8" />
+</p>
+
+---
+
+### 🤝 Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/shivansh-garg-6843a1257/">
+    <img src="https://img.shields.io/badge/LinkedIn-Shivansh%20Garg-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://leetcode.com/shivanshgarg07/">
+    <img src="https://img.shields.io/badge/LeetCode-Shivansh%20Garg-F89F1B?style=for-the-badge&logo=leetcode" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Building things, breaking things, understanding why they broke.</i> ⚙️
+</p>
